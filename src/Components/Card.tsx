@@ -21,7 +21,7 @@ interface MovieResult {
 
 const Card: React.FC<ResultsProps> = ({ results })=> {
   return (
-    <div className="grid lg:grid-cols-4 md:grid-cols-3 grid-cols-2 gap-4 max-w-6xl mx-auto mt-2 ">
+    <div className="card1 ">
     {results.map((result, index) => (
       <div className="border-2 p-2 rounded-lg bg-white dark:bg-gray-100 hover:opacity-75 delay-75 cursor-pointer active:opacity-20" key={index}>
 <Link href={`/movie/${result.id}`}>
