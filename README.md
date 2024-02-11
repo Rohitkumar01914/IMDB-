@@ -11,4 +11,4 @@ This GitHub repository hosts the code for an IMDB (Interactive Media Design) clo
 ## How to Use:
 1. **Clone the Repository:**
    ```bash
-   git clone git clone https://github.com/Rohitkumar01914/IMDBB-.git
+   git clone git clone https://github.com/Rohitkumar01914/IMDB-.git
