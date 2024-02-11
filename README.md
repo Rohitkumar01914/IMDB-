@@ -11,4 +11,4 @@ This GitHub repository hosts the code for an IMD (Interactive Media Design) clon
 ## How to Use:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/imd-clone-nextjs.git
+   git clone git clone https://github.com/Rohitkumar01914/IMDB-.git
