@@ -1,4 +1,4 @@
-# IMDBB Clone Website using Next.js
+# IMDB Clone Website using Next.js
 
 This GitHub repository hosts the code for an IMDB (Interactive Media Design) clone website developed using Next.js. The IMDB clone showcases a modern and responsive web application, leveraging the powerful features of Next.js for a seamless and efficient development experience.
 
